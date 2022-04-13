@@ -3,8 +3,6 @@ package se.lexicon.dreas94.java_time_exercises.exercise15;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
-import java.time.format.DateTimeFormatter;
-import java.util.Locale;
 
 public class ExerciseMain15
 {
